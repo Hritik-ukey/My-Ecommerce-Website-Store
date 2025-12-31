@@ -6,7 +6,7 @@ STEP 2 : npm install for installing all the dependencies
              
 STEP 3 : npm i autoprefixer           
                                      
-STEP 4 : npm start.              
+STEP 4 : npm start.                
                    
                   
             
